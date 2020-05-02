@@ -1,4 +1,4 @@
-package pagoempleados;
+package com.fegc.vista;
 
 import com.fegc.modelo.Metodos;
 
