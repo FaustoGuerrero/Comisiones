@@ -2,13 +2,17 @@
 Desarrollo para calcular comisiones y bonos para un equipo multinivel.
 
 La estructura del equipo es la siguiente, donde los que están arriba son los líderes de los que están abajo. 
-image.png
+![1](https://user-images.githubusercontent.com/39904368/80854938-be131900-8c01-11ea-8081-d5203fb2fe49.png)
 
 Punto1. 
 Primero se deben programar las comisiones para la venta.
 Este gráfico muestra las comisiones para una venta realizada por el vendedor amarillo que está en el nivel más básico del equipo.
 Esta misma lógica aplica para todos los integrantes del equipo. Por ejemplo si el que está en el nivel 2 (N2) realiza una venta recibe una comisión de 3% y el que está en el nivel superior de 1.2%, y el siguiente de 0.12%...etc. 
-image.png
+
+
+![2](https://user-images.githubusercontent.com/39904368/80854937-bd7a8280-8c01-11ea-81f4-728824fc2d5e.png)
+
+
 Punto 2. bonos
 Además aplican los siguientes bonos para los líderes.
 
